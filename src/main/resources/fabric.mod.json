@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "knifemod",
+  "version": "${version}",
+  "name": "Knife Mod",
+  "description": "Roblox'taki eski Knife script'inden esinlenen bir bıçak oyun modu: kesme, fırlatma, yakalama ve bıçaklama.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.knifemod.KnifeMod"],
+    "client": ["com.knifemod.client.KnifeModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

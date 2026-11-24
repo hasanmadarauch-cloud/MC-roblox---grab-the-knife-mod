@@ -1,0 +1,12 @@
+{
+  "item.knifemod.knife": "Knife",
+  "item.knifemod.knife.tip1": "Left click: slash",
+  "item.knifemod.knife.tip2": "Hold & release right click: throw",
+  "item.knifemod.knife.tip3": "Sneak + right click a target: grab",
+  "item.knifemod.knife.tip4": "While grabbing - right click: stab | sneak + right click: fling",
+  "entity.knifemod.thrown_knife": "Thrown Knife",
+  "knifemod.grab.start": "Grabbed %s!",
+  "knifemod.grab.victim": "%s grabbed you!",
+  "gamerule.knifeBlood": "Knife blood effects",
+  "gamerule.knifeGrabPlayers": "Knife can grab players"
+}
